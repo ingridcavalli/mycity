@@ -1,0 +1,47 @@
+.geral {
+    width: 900px;
+    margin: auto;
+    
+}
+
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    background: burlywood;
+}
+.locais {
+    margin:0;
+    width: 1000px;
+    background: rgb(250, 221, 168); 
+}
+.title{
+    margin: 5px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.local1 {
+    margin:0;
+    background: beige;
+    text-transform: lowercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+}
+.local2{
+    margin: 1px;
+    background: blanchedalmond;
+    text-transform: lowercase;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+}
+.local3{
+    margin: 2px;
+    background:antiquewhite;
+    text-transform: lowercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+.vídeo{
+    background:bisque;
+}
+
+    
